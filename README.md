@@ -1,2 +1,180 @@
-# hotds2w10
-nick trivia
+q "**Who is Doran Martell’s personal guard?**"
+a "Areo Hotah", "Areo", "Hotah"
+
+q "**What is the title of Areo Hotah’s one and only chapter in *A Feast for Crows*?**"
+a "The Captain of Guards", "Captain of Guards", "The Captain of the Guards", "Captain of the Guards"
+
+q "**What is the title of Areo Hotah’s one and only chapter in *A Dance with Dragons*?**"
+a "The Watcher", "Watcher"
+
+q "**Which character has the most chapters in *A Storm of Swords*?**"
+a "Arya Stark", "Arya"
+
+q "**What is the last episode of the series written by George R. R. Martin?**"
+a "The Lion and the Rose", "Lion and the Rose", "Purple Wedding"
+
+q "**What was George R. R. Martin’s original name for the final book of the series?**"
+a "A Time for Wolves"
+
+q "**What does Tywin tell the pathetic Joffrey after Joffrey says** “But I haven’t been counseled!”**?**"
+a "You are being counseled at this very moment", "You are being counseled at this moment", "You are being counseled right now", "You are being counseled at this very minute", "You are being counseled at this minute"
+
+q "**Who said it?** “To lead men, you must know them.”"
+a "Qhorin Halfhand", "Qhorin", "Halfhand"
+
+q "**The Crone, The Maiden, The Smith, The Father, The Mother, The Stranger, The Deadbeat Uncle, The Warrior. Which of these is NOT one of the Seven?**"
+a "The Deadbeat Uncle", "Deadbeat Uncle"
+
+q "**Name a house that has occupied Harrenhal.**"
+a "Hoare", "Qoherys", "Harroway", "Towers", "Strong", "Lothston", "Whent", "Slynt", "Baelish"
+
+q "**What is the one episode of the show with no music in the credits?**"
+a "The Rains of Castamere", "Rains of Castamere", "Red Wedding"
+
+q "**What is the name of Septon Meribald’s dog in *A Feast for Crows*?**"
+a "Dog"
+
+q "**Finish the Miguel Sapochnik quote:** “What if Alicent is like ‘Women for Trump,’ and Rhaenyra’s like…”"
+a "Punk rock", "rock", "punk"
+
+q "**Finish the George R. R. Martin quote:** “I’ve just reviewed the tapes of twelve young women reading for the part of Shae. Excuse me. I need to go take a…”"
+a "Cold shower", "Cold shower now"
+
+q "**What imaginary beast torments Aeron Damphair in *The Winds of Winter*?**"
+a "Airgon"
+
+q "**What game does Tyrion play with Young Griff in the bowels of the *Shy Maid*?**"
+a "Cyvasse"
+
+q "**What is Young Griff’s tutor Haldon nicknamed?**"
+a "Halfmaester", "Haldon Halfmaester"
+
+q "**Night’s Watch members have a lot of alliterative names. Name one.**"
+a "Tim Tangletongue", "Hairy Hal", "Bearded Ben", "Black Bernarr", "Brown Bernarr", "Benedict Blackmont", "Dornish Dilly", "Fulk the Flea", "Garrett Greenspear", "Garth Greyfeather", "Garth of Greenaway", "Wick Whittlestick", "Clubfoot Karl", "Left Hand Lew", "Luke of Longtown", "Orphan Oss", "Owen the Oaf", "Stonesnake", "Yorick Yronwood", "Deaf Dick", "Deaf Dick Follard"
+
+q "**What flippant response of Tywin’s prompts Tyrion to kill him?**"
+a "Wherever whores go", "Where do whores go"
+
+q "**What animal do Quentyn Martell, the crone Maggie, and this server’s best user have in common?**"
+a "Frog"
+
+q "**What fool does Joffrey take pity on who later gives Sansa a necklace full of poison to kill Joffrey?**"
+a "Dontos Hollard", "Dontos", "Ser Dontos", "Ser Dontos Hollard"
+
+q "**You are a prostitute. Finish Salladhor Saan’s joke:** “Get me my…”"
+a "Brown pants"
+
+q "**How many known Aegon Targaryens are there? Don’t spam or you’ll get Ansh’d.**"
+a "Eleven", "11"
+
+q "**Finish the quote:** “Elia Martell, Princess of Dorne, you raped her. You murdered her. You…”"
+a "killed her children"
+
+q "**Write the first sentence of the broken man speech.**"
+a "More less than more", "More less than more."
+
+q "**Name a non-prologue, non-epilogue character who has only one chapter in the books.**"
+a "Melisandre", "Arys Oakhart", "Arys"
+
+q "**At the Kingsmoot, which laughable candidate suggests the Ironborn sail out to the Sunset Sea to find new land and is promptly humiliated?**"
+a "Gylbert Farwynd", "Gylbert"
+
+q "**In A Game of Thrones, a character appears whose name is pronounced the same as Patrick. Spell it.**"
+a "Patrek"
+
+q "**Name Braavos’s colorful harbor exclusively for Braavosi ships.**"
+a "Purple Harbor"
+
+q "**Which free city was Varys born in?**"
+a "Lys"
+
+q "**What unforgettable analogy is used to describe Samwell Tarly’s penis?**"
+a "Fat pink mast"
+
+q "**Among Eddards and Daeneryses, only one character’s (pre-AFFC) chapters are named after his nickname. Who?**"
+a "Bran Stark", "Bran"
+
+q "**Starting with A Feast for Crows, some chapters started getting titles rather than character names. Tell me one.**"
+a "The Iron Captain", "The Iron Suitor", "The Reaver", "The Captain of Guards", "The Watcher", "The Prophet", "The Drowned Man", "The Kraken's Daughter", "The Turncloak", "The Prince of Winterfell", "A Ghost in Winterfell", "The Blind Girl", "The Ugly Little Girl", "The Merchant's Man", "The Griffin Reborn", "The Spurned Suitor", "The Discarded Knight", "The King's Prize", "The Wayward Bride", "The Sacrifice", "The Soiled Knight", "The Princess in the Tower", "The Kingbreaker", "The Queen's Hand", "The Queenmaker", "The Lost Lord", "The Windblown", "The Forsaken", "The Queensguard"
+
+q "**Name a chapter that doesn’t begin with ‘The’ and isn’t a character’s name.**"
+a "A Ghost in Winterfell", "Cat of the Canals", "Alayne", "Reek"
+
+q "**What condition does Maester Pycelle use as an excuse for dropping a letter while handing it to Tyrion?**"
+a "Old fingers"
+
+q "**Whose wall is the inspiration for Game of Thrones’ The Wall?**"
+a "Hadrian", "Hadrian's Wall"
+
+q "**What is the Hound’s nickname?**"
+a "The Hound"
+
+q "**When declaring Robb should be King in the North, Greatjon Umber mentions places the southerners know nothing of. Name one.**"
+a "What do they know of the Wall, or the Wolfswood?", "the wall", "wall", "wolfswood", "the wolfswood", "barrows", "the barrows", "the barrows of the first men"
+
+q "**Where is Taena Merryweather from? Hint, it’s in Essos.**"
+a "Myr"
+
+q "**In *The Winds of Winter*, what character mentions that he shat himself in his first battle?**"
+a "Ser Barristan the Bold", "Barristan", "Ser Barristan", "Barristan the Bold", "Barry B", "Bart", "B"
+
+q "**Euron calls his ship The Silence because he removes this part of his crew.**"
+a "Tongues", "Tongue"
+
+q "**Finish the quote:** “The more she drank the more she shat, but the more she shat…”"
+a "The thirstier she grew"
+
+q "**Finish the quote:** “Don’t look so terrified. lf we beheaded everyone that ran away for the night…”"
+a "Only ghosts would guard the wall", "ghosts would guard the wall", "ghost would guard the wall", "only ghost would guard the wall"
+
+q "**Who says the following:** “Ard leysons arre not wælcom’d but saffard”**?**"
+a "Mysaria"
+
+q "**Yezzan…**"
+a "Zo Qaggaz"
+
+q "**What peninsula is this?**"
+a "Valyrian Peninsula", "Valyria", "Val", "Valyrian"
+i "https://i.imgur.com/Y8NV3Mj.png"
+
+q "**Name the Night’s Watchman who orders Will and Gared to continue tracking the wildlings in the first scene of the show."
+a "Waymar Royce", "Ser Waymar Royce", "Waymar"
+
+q "**Who killed Jeor Mormont?**"
+a "Rast"
+
+q "**Name a warg/skinchanger who is not a Stark.**"
+a "Jon Snow", "Jon", "Orell", "Varamyr Sixskins", "Varamyr", "Farwynd", "House Farwynd", "Borroq", "Brynden Rivers", "Brynden", "Three Eyed Crow", "Three Eyed Raven", "The Three Eyed Crow", "The Three Eyed Raven"
+
+q "**Name the village at which Stannis is camped at the end of *A Dance with Dragons*.**"
+a "Crofter's Village", "Crofters village", "crofters", "crofter"
+
+q "**Name one of the Vale’s mountain clans.**"
+a "Black Ears", "Burned Men", "Howlers", "Milk Snakes", "Moon Brothers", "Painted Dogs", "Redsmiths", "Sons of the Mist", "Sons of the Tree", "Stone Crows"
+
+q "**In the books, the ruler of the Seven Kingdoms rules the Andals, First Men, and the…**"
+a "Rhoynar"
+
+q "**What does Mag the Mighty ride into the battle at the wall?**"
+a "A Mammoth", "Mammoth"
+
+q "**Outside which castle is the first battle in the War of the Five Kings fought?**"
+a "Golden Tooth"
+
+q "**Which helpful companion guides Brienne to Crackclaw Point in *A Feast for Crows*?**"
+a "Nimble Dick", "Dick Crabb"
+
+q "“A highborn maid of three-and-ten, with a fair face and…”"
+a "Auburn hair"
+
+q "**Who killed Lommy?**"
+a "Raff the Sweetling", "Raff", "Polliver"
+
+q "**Seat of the House whose sigil is a red salmon.**"
+a "Maidenpool"
+
+q "Who was Ser Gregor Clegane’s crassly-named, foul-mothed man-at-arms?"
+a "Shitmouth"
+
+q "**What is your favorite episode of the series?**"
+a "any of them", "Winter is Coming", "The Kingsroad", "Lord Snow", "Cripples, Bastards, and Broken Things", "The Wolf and the Lion", "A Golden Crown", "You Win or You Die", "The Pointy End", "Baelor", "Fire and Blood", "The North Remembers", "Nightlands", "What Is Dead May Never Die", "Garden of Bones", "The Ghost of Harrenhal", "The Old Gods and the New", "A Man Without Honor", "The Prince of Winterfell", "Blackwater", "Valar Morghulis", "Valar Dohaeris", "Dark Wings, Dark Words", "Walk of Punishment", "And Now His Watch Is Ended", "Kissed by Fire", "The Climb", "The Bear and the Maiden Fair", "Second Sons", "The Rains of Castamere", "Mhysa", "Two Swords", "The Lion and the Rose", "Breaker of Chains", "Oathkeeper", "First of His Name", "The Laws of Gods and Men", "Mockingbird", "The Mountain and the Viper", "The Watchers on the Wall", "The Children", "The Wars to Come", "The House of Black and White", "High Sparrow", "Sons of the Harpy", "Kill the Boy", "Unbowed, Unbent, Unbroken", "The Gift", "Hardhome", "The Dance of Dragons", "Mother's Mercy", "The Red Woman", "Home", "Oathbreaker", "Book of the Stranger", "The Door", "Blood of my Blood", "The Broken Man", "No One", "Battle of the Bastards", "The Winds of Winter", "Dragonstone", "Stormborn", "The Queen's Justice", "The Spoils of War", "Eastwatch", "Beyond the Wall", "The Dragon and the Wolf", "Winterfell", "A Knight of the Seven Kingdoms", "The Long Night", "The Last of the Starks", "The Bells", "The Iron Throne
